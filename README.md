@@ -106,3 +106,4 @@ Here is the current list of the commands :
 | Channels 	| discordlink.channels      	| /channels        	| List all available channels 	|
 | Link     	| discordlink.link          	| /link            	| Starts the linking process  	|
 | Unlink   	| discordlink.unlink        	| /unlink          	| Unlinks you                 	|
+You can simply give all permissions with the permission (`discordlink.all`).
