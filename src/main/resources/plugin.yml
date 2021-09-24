@@ -1,0 +1,32 @@
+name: DiscordLink
+version: '${project.version}'
+main: fr.lygaen.discord.DiscordLink
+api-version: 1.17
+authors: [ Lygaen ]
+description: A plugin for discord linking
+
+commands:
+  move:
+    description: Moves a discord user in your voice channel by his minecraft username
+    usage: /move (player) [channel]
+    default: op
+  mute:
+    description: Toggles mute a discord user by his minecraft Username
+    usage: /mute (player)
+    default: op
+  deafen:
+    description: Toggles deafen a discord user by his minecraft Username
+    usage: /deafen (player)
+    default: op
+  link:
+    description: Links your minecraft account with your discord account
+    usage: /link
+    default: true
+  unlink:
+    description: Unlinks your minecraft account with your discord account
+    usage: /unlink
+    default: true
+  channels:
+    description: List all voice channels
+    usage: /channels
+    default: true

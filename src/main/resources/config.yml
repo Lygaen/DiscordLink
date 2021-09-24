@@ -1,0 +1,34 @@
+# Put your discord bot token here, but keep it
+# a secret !
+token: yourToken
+# The guild where your bot will be moving
+# members
+guild-id: 0
+
+presence:
+# Either online, dnd, idle, offline
+  status: online
+# Either listening, watching, playing, competing, streaming
+  type: watching
+# The text shown under the status, next to the type
+  text: the Minecraft Server !
+# Url if you chose streaming as the type, must be a valid url.
+# If an invalid url is provided, the plugin will fallback
+# to the default activity.
+# A valid streaming URL must be derived from https://twitch.tv/
+# or https://youtube.com/watch?v=. Leave it blank if you didn't
+# choose the streaming type, the plugin will ignore it anyway.
+  url: none
+
+# Add your voice channels in the format
+#  name:
+#    display: "§9CHANNEL :)"
+#    id: 0
+# Where you replace name with the key that will
+# be used in commands to reference to the channel,
+# display with the display name
+# id with the id of the discord voice channel
+channels:
+  staff:
+    display: "§eSTAFF"
+    id: 0
