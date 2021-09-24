@@ -96,7 +96,8 @@ channels:
     id: 852605914032242708
 ```
 ## Commands
-Here is the current list of the commands :
+You can simply give all permissions with the permission (`discordlink.all`),
+here is the current list of the commands :
 | Name     	| Permissions               	| Usage            	| Explanation                 	|
 |----------	|---------------------------	|------------------	|-----------------------------	|
 | Mute     	| discordlink.mute          	| /mute            	| Mutes you in discord        	|
@@ -106,4 +107,3 @@ Here is the current list of the commands :
 | Channels 	| discordlink.channels      	| /channels        	| List all available channels 	|
 | Link     	| discordlink.link          	| /link            	| Starts the linking process  	|
 | Unlink   	| discordlink.unlink        	| /unlink          	| Unlinks you                 	|
-You can simply give all permissions with the permission (`discordlink.all`).
