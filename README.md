@@ -100,6 +100,8 @@ You can simply give all permissions with the permission (`discordlink.all`),
 here is the current list of the commands :
 | Name     	| Permissions               	| Usage            	| Explanation                 	|
 |----------	|---------------------------	|------------------	|-----------------------------	|
+| Move     	| discordlink.move          	| /move [channel]   | Moves you in a channel       	|
+| Move     	| discordlink.move.others       | /move [player] [channel]   | Moves someone in a channel       	|
 | Mute     	| discordlink.mute          	| /mute            	| Mutes you in discord        	|
 |          	| discordlink.mute.others   	| /mute [player]   	| Mutes someone else          	|
 | Deafen   	| discordlink.deafen        	| /deafen          	| Deafens you                 	|
