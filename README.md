@@ -103,6 +103,6 @@ Here is the current list of the commands :
 |          	| discordlink.mute.others   	| /mute [player]   	| Mutes someone else          	|
 | Deafen   	| discordlink.deafen        	| /deafen          	| Deafens you                 	|
 |          	| discordlink.deafen.others 	| /deafen [player] 	| Deafens someone else        	|
-| Channels 	|                           	| /channels        	| List all available channels 	|
+| Channels 	| discordlink.channels      	| /channels        	| List all available channels 	|
 | Link     	| discordlink.link          	| /link            	| Starts the linking process  	|
 | Unlink   	| discordlink.unlink        	| /unlink          	| Unlinks you                 	|
