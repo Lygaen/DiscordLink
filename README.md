@@ -4,9 +4,9 @@ Make a discord link between a Minecraft user and his discord account.
 
 ## Summary
 Here is a summary of the content :
-1. [Jar]()
-2. [Config]()
-3. [Commands]()
+1. [Jar](https://github.com/Lygaen/DiscordLink#jar)
+2. [Config](https://github.com/Lygaen/DiscordLink#config)
+3. [Commands](https://github.com/Lygaen/DiscordLink#commands)
 
 ## Jar
 First, you'll need to download the latest jar from [the releases tab](https://github.com/Lygaen/DiscordLink/releases).
@@ -34,10 +34,10 @@ is using the spigot server : [YAML](https://fr.wikipedia.org/wiki/YAML).
 
 ### Table of content
 Each of the topics will be given an example as well.
-1. [Token]()
-2. [Guild ID]()
-3. [Presence]()
-4. [Channels]()
+1. [Token](https://github.com/Lygaen/DiscordLink#token)
+2. [Guild ID](https://github.com/Lygaen/DiscordLink#guild-id)
+3. [Presence](https://github.com/Lygaen/DiscordLink#presence)
+4. [Channels](https://github.com/Lygaen/DiscordLink#channels)
 
 #### Token
 You can get your token by creating a discord bot on [the dev portal](https://discord.com/developers/applications),
